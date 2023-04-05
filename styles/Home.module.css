@@ -17,14 +17,11 @@
 }
 
 .card {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    margin: 0.5rem;
+    cursor: pointer;
 }
 
 .image {
-    margin: 1rem;
     border-radius: 6px;
-    cursor: pointer;
     box-shadow: 0px 2px 6px #97caef5d;
 }

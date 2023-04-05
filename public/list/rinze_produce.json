@@ -3,98 +3,168 @@
         "type": "Produce",
         "rarity": "SSR",
         "name": "【杜野凛世の印象派】杜野凛世",
-        "src": "/images/rinze/CardImg-1040120010.jpg",
-        "src_fes": "/images/rinze/CardImg-1040120010_FES.jpg"
+        "src": "/images/rinze/CardImg-1040120010.jpg"
+    },
+    {
+        "type": "Produce",
+        "rarity": "SSR",
+        "name": "【杜野凛世の印象派】杜野凛世 +",
+        "src": "/images/rinze/CardImg-1040120010_FES.jpg"
     },
     {
         "type": "Produce",
         "rarity": "SSR",
         "name": "【凛世花伝】杜野凛世",
-        "src": "/images/rinze/CardImg-1040120020.jpg",
-        "src_fes": "/images/rinze/CardImg-1040120020_FES.jpg"
+        "src": "/images/rinze/CardImg-1040120020.jpg"
+    },
+    {
+        "type": "Produce",
+        "rarity": "SSR",
+        "name": "【凛世花伝】杜野凛世 +",
+        "src": "/images/rinze/CardImg-1040120020_FES.jpg"
     },
     {
         "type": "Produce",
         "rarity": "SSR",
         "name": "【水色感情】杜野凛世",
-        "src": "/images/rinze/CardImg-1040120030.jpg",
-        "src_fes": "/images/rinze/CardImg-1040120030_FES.jpg"
+        "src": "/images/rinze/CardImg-1040120030.jpg"
+    },
+    {
+        "type": "Produce",
+        "rarity": "SSR",
+        "name": "【水色感情】杜野凛世 +",
+        "src": "/images/rinze/CardImg-1040120030_FES.jpg"
     },
     {
         "type": "Produce",
         "rarity": "SSR",
         "name": "【十二月短篇】杜野凛世",
-        "src": "/images/rinze/CardImg-1040120040.jpg",
-        "src_fes": "/images/rinze/CardImg-1040120040_FES.jpg"
+        "src": "/images/rinze/CardImg-1040120040.jpg"
+    },
+    {
+        "type": "Produce",
+        "rarity": "SSR",
+        "name": "【十二月短篇】杜野凛世 +",
+        "src": "/images/rinze/CardImg-1040120040_FES.jpg"
     },
     {
         "type": "Produce",
         "rarity": "SSR",
         "name": "【われにかへれ】杜野凛世",
-        "src": "/images/rinze/CardImg-1040120050.jpg",
-        "src_fes": "/images/rinze/CardImg-1040120050_FES.jpg"
+        "src": "/images/rinze/CardImg-1040120050.jpg"
+    },
+    {
+        "type": "Produce",
+        "rarity": "SSR",
+        "name": "【われにかへれ】杜野凛世 +",
+        "src": "/images/rinze/CardImg-1040120050_FES.jpg"
     },
     {
         "type": "Produce",
         "rarity": "SSR",
         "name": "【ロー・ポジション】杜野凛世",
-        "src": "/images/rinze/CardImg-1040120060.jpg",
-        "src_fes": "/images/rinze/CardImg-1040120060_FES.jpg"
+        "src": "/images/rinze/CardImg-1040120060.jpg"
+    },
+    {
+        "type": "Produce",
+        "rarity": "SSR",
+        "name": "【ロー・ポジション】杜野凛世 +",
+        "src": "/images/rinze/CardImg-1040120060_FES.jpg"
     },
     {
         "type": "Produce",
         "rarity": "SSR",
         "name": "【さよならごつこ】杜野凛世",
-        "src": "/images/rinze/CardImg-1040120070.jpg",
-        "src_fes": "/images/rinze/CardImg-1040120070_FES.jpg"
+        "src": "/images/rinze/CardImg-1040120070.jpg"
+    },
+    {
+        "type": "Produce",
+        "rarity": "SSR",
+        "name": "【さよならごつこ】杜野凛世 +",
+        "src": "/images/rinze/CardImg-1040120070_FES.jpg"
     },
     {
         "type": "Produce",
         "rarity": "SSR",
         "name": "【晩秋ろまんす】杜野凛世",
-        "src": "/images/rinze/CardImg-1040120080.jpg",
-        "src_fes": "/images/rinze/CardImg-1040120080_FES.jpg"
+        "src": "/images/rinze/CardImg-1040120080.jpg"
+    },
+    {
+        "type": "Produce",
+        "rarity": "SSR",
+        "name": "【晩秋ろまんす】杜野凛世 +",
+        "src": "/images/rinze/CardImg-1040120080_FES.jpg"
     },
     {
         "type": "Produce",
         "rarity": "SR",
         "name": "【想ひいろは】杜野凛世",
-        "src": "/images/rinze/CardImg-1030120010.jpg",
-        "src_fes": "/images/rinze/CardImg-1030120010_FES.jpg"
+        "src": "/images/rinze/CardImg-1030120010.jpg"
+    },
+    {
+        "type": "Produce",
+        "rarity": "SR",
+        "name": "【想ひいろは】杜野凛世 +",
+        "src": "/images/rinze/CardImg-1030120010_FES.jpg"
     },
     {
         "type": "Produce",
         "rarity": "SR",
         "name": "【凛凛、凛世】杜野凛世",
-        "src": "/images/rinze/CardImg-1030120020.jpg",
-        "src_fes": "/images/rinze/CardImg-1030120020_FES.jpg"
+        "src": "/images/rinze/CardImg-1030120020.jpg"
+    },
+    {
+        "type": "Produce",
+        "rarity": "SR",
+        "name": "【凛凛、凛世】杜野凛世 +",
+        "src": "/images/rinze/CardImg-1030120020_FES.jpg"
     },
     {
         "type": "Produce",
         "rarity": "SR",
         "name": "【微熱風鈴】杜野凛世",
-        "src": "/images/rinze/CardImg-1030120030.jpg",
-        "src_fes": "/images/rinze/CardImg-1030120030_FES.jpg"
+        "src": "/images/rinze/CardImg-1030120030.jpg"
+    },
+    {
+        "type": "Produce",
+        "rarity": "SR",
+        "name": "【微熱風鈴】杜野凛世 +",
+        "src": "/images/rinze/CardImg-1030120030_FES.jpg"
     },
     {
         "type": "Produce",
         "rarity": "SR",
         "name": "【ふらここのうた】杜野凛世",
-        "src": "/images/rinze/CardImg-1030120040.jpg",
-        "src_fes": "/images/rinze/CardImg-1030120040_FES.jpg"
+        "src": "/images/rinze/CardImg-1030120040.jpg"
+    },
+    {
+        "type": "Produce",
+        "rarity": "SR",
+        "name": "【ふらここのうた】杜野凛世 +",
+        "src": "/images/rinze/CardImg-1030120040_FES.jpg"
     },
     {
         "type": "Produce",
         "rarity": "SR",
         "name": "【階段式純情昇降機】杜野凛世",
-        "src": "/images/rinze/CardImg-1030120050.jpg",
-        "src_fes": "/images/rinze/CardImg-1030120050_FES.jpg"
+        "src": "/images/rinze/CardImg-1030120050.jpg"
+    },
+    {
+        "type": "Produce",
+        "rarity": "SR",
+        "name": "【階段式純情昇降機】杜野凛世 +",
+        "src": "/images/rinze/CardImg-1030120050_FES.jpg"
     },
     {
         "type": "Produce",
         "rarity": "SR",
         "name": "【春告窓】杜野凛世",
-        "src": "/images/rinze/CardImg-1030120060.jpg",
-        "src_fes": "/images/rinze/CardImg-1030120060_FES.jpg"
+        "src": "/images/rinze/CardImg-1030120060.jpg"
+    },
+    {
+        "type": "Produce",
+        "rarity": "SR",
+        "name": "【春告窓】杜野凛世 +",
+        "src": "/images/rinze/CardImg-1030120060_FES.jpg"
     }
 ]
