@@ -20,7 +20,7 @@ export default function Home() {
     <>
       <Head>
         <title>Rinze</title>
-        <meta name="description" content="杜野凛世 Morino Rinze 04 70 " />
+        <meta name="description" content="杜野凛世 Morino Rinze 283 04 70 " />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
