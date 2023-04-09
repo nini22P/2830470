@@ -9,7 +9,7 @@ const Home = () => {
     return (
         <>
             <Head>
-                <title>Rinze</title>
+                <title>杜野凛世（もりの りんぜ）</title>
                 <meta name="description" content="杜野 凛世 もりの りんぜ Morino Rinze 283 04 70 " />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="icon" href="/favicon.ico" />

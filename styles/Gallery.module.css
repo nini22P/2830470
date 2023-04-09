@@ -3,6 +3,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    width: -moz-fit-content;
     width: fit-content;
     /* padding: 2rem 0;
     scroll-margin-top: 3rem; */
