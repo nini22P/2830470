@@ -39,8 +39,8 @@ const View = ({ card, setCard }) => {
 
     let imgStyle = {}
     width > height / 9 * 16
-        ? imgStyle = { width: 'auto', height: 'calc(100vh - 10rem)' }
-        : imgStyle = { width: '90vw', height: 'auto' }
+        ? imgStyle = { width: 'auto', height: 'calc(100vh - 20rem)' }
+        : imgStyle = { width: '80vw', height: 'auto' }
     if (card !== '')
         return (
             <div className={styles.view}>

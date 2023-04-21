@@ -97,6 +97,18 @@
     },
     {
         "type": "Produce",
+        "rarity": "SSR",
+        "name": "【花は】杜野凛世",
+        "src": "/images/rinze/P-SSR-Rinze-09.jfif"
+    },
+    {
+        "type": "Produce",
+        "rarity": "SSR",
+        "name": "【花は】杜野凛世 +",
+        "src": "/images/rinze/P-SSR-Rinze-09-FES.jfif"
+    },
+    {
+        "type": "Produce",
         "rarity": "SR",
         "name": "【想ひいろは】杜野凛世",
         "src": "/images/rinze/CardImg-1030120010.jpg"
