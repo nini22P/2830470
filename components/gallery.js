@@ -1,12 +1,12 @@
-import Image from 'next/image'
-import Hover from 'react-3d-hover'
-import styles from '@/styles/Gallery.module.css'
 import { useState, useEffect } from 'react'
+import Image from 'next/image'
+import Atropos from 'atropos/react'
+import styles from '@/styles/Gallery.module.css'
 
 const Card = ({ card, handleView }) => {
     return (
         <div className={styles.card} key={card.id}>
-            <Hover scale={1.025} speed={1000}>
+            <Atropos>
                 <Image
                     className={styles.image}
                     src={card.src}
@@ -17,7 +17,7 @@ const Card = ({ card, handleView }) => {
                     loading='lazy'
                     onClick={(event) => handleView(event)}
                 />
-            </Hover>
+            </Atropos>
         </div>
     )
 }
@@ -44,7 +44,7 @@ const View = ({ card, setCard }) => {
     if (card !== '')
         return (
             <div className={styles.view}>
-                <Hover scale={1.025} speed={1000}>
+                <Atropos>
                     <Image
                         className={styles.image}
                         src={card.src}
@@ -54,7 +54,7 @@ const View = ({ card, setCard }) => {
                         sizes="100vw"
                         style={imgStyle}
                     />
-                </Hover>
+                </Atropos>
                 <a href='#' onClick={() => {
                     event.preventDefault()
                     setCard('')
